@@ -17,20 +17,20 @@
 - A Simple Sorting Algorithm Visualizer to make newbie's to make better understanding about how the sorting are working Internally.
 - Here I added some Animations to Visualize better.
 - It has user-friendly controls, so anyone can use this.
-- Here is the JAR file. [Click Here](#https://drive.google.com/file/d/1kpfroW5Xy4sGQnamwmp1SFzDFMeprVWz/view?usp=sharing)
+- Here is the JAR file. [Click Here](https://drive.google.com/file/d/1kpfroW5Xy4sGQnamwmp1SFzDFMeprVWz/view?usp=sharing)
 
 ## Technologies
-- [Java](#https://www.java.com/en/download/help/whatis_java.html)
-- [JavaFx](#https://openjfx.io/)
-- [Css3](#https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Java](https://www.java.com/en/download/help/whatis_java.html)
+- [JavaFx](https://openjfx.io/)
+- [Css3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## List of Algorithms
-- [Bubble Sort](#https://www.scaler.com/topics/data-structures/bubble-sort/)
-- [Insertion Sort](#https://www.scaler.com/topics/data-structures/insertion-sort/)
-- [Selection Sort](#https://www.scaler.com/topics/data-structures/selection-sort/)
-- [Shell Sort](#https://www.javatpoint.com/shell-sort)
-- [Quick Sort](#https://www.scaler.com/topics/data-structures/quick-sort-algorithm/)
-- [Merge Sort](#https://www.scaler.com/topics/data-structures/merge-sort-algorithm/)
+- [Bubble Sort](https://www.scaler.com/topics/data-structures/bubble-sort/)
+- [Insertion Sort](https://www.scaler.com/topics/data-structures/insertion-sort/)
+- [Selection Sort](https://www.scaler.com/topics/data-structures/selection-sort/)
+- [Shell Sort](https://www.javatpoint.com/shell-sort)
+- [Quick Sort](https://www.scaler.com/topics/data-structures/quick-sort-algorithm/)
+- [Merge Sort](https://www.scaler.com/topics/data-structures/merge-sort-algorithm/)
 
 ## Algorithm Demo
 
@@ -51,5 +51,3 @@ https://user-images.githubusercontent.com/83947009/132214165-27d6ed85-768b-41b9-
 
 ### Merge Sort
 https://user-images.githubusercontent.com/83947009/132238552-f11d1f2f-7b8b-4a82-bc2d-0da565e9c04e.mp4
-
- 
