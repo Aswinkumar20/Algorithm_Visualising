@@ -24,7 +24,7 @@
 - [JavaFx](#https://openjfx.io/)
 - [Css3](#https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-## List of Algorithm
+## List of Algorithms
 - [Bubble Sort](#https://www.scaler.com/topics/data-structures/bubble-sort/)
 - [Insertion Sort](#https://www.scaler.com/topics/data-structures/insertion-sort/)
 - [Selection Sort](#https://www.scaler.com/topics/data-structures/selection-sort/)
